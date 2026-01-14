@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Pratibha Sikheriya<br>Final Year IT Undergraduate @ NIT Raipur <br>Passionate about software development<br>Web Development <br>AI & DataAI & data-driven systems
+Hi, I’m Pratibha Sikheriya<br>Final Year IT Undergraduate @ NIT Raipur <br>Passionate about software development<br>Web Development <br>AI & data-driven systems
 
 
 ## 🌐 Socials:
